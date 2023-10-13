@@ -11,3 +11,4 @@ The developer (me) is not responsible for any of the assets used in this game. I
 I am not affiliated with or responsible for the Merlin2d engine. Any questions or concerns regarding the engine itself should be directed to its respective developers.
 Thank you for checking out this project! Your feedback and contributions are always welcome.
 
+I would like to explore this topic further, so if you have any suggestions, amendments or requirements, please contact me at nikitos2159@gmail.com.
