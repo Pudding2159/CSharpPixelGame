@@ -1,5 +1,6 @@
 # CSharpPixelGame
 ![](/Visual_Presentation/Image_Game_1.png)
+
 #### Welcome to this repository! This project is a simple game developed primarily to practice with the C# programming language and to demonstrate its capabilities when used with the Merlin game engine.
 
 ## Disclaimer
