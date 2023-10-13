@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="86" height="48" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="4">
+ <tileset firstgid="1" name="tileset1321" tilewidth="16" tileheight="16" tilecount="552" columns="23">
+  <image source="tilesets/dungeon_tiles.png" width="368" height="384"/>
+ </tileset>
+ <layer id="1" name="background" width="86" height="48">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu2YyQ6DMAxEw43S/gNd/v/j6KL2WHOIhFAIJomJseZJcyRyJgvOOAcAADYZSE/Si/QmfeqWY4a2gbcS9A28lcJ7eyJ1pDPp0tSuygajt1fSjXQnPeArAACIMTg9fYKWOnLwfraK+oRYHSHP56rN1M++0dMnxOoIeT5XTbyn/Yqn2s5kqM65asLdo/59ps3fHKTmMo7LPfcW375S/5Gt4/bGfJX4j/i9unVcS75K0DLPf+g7DT2YVlLPgJYeTCvwRx+4Y2XAHSuDxjtkjzfL4I73NsqtNScv4ng1zVCOcl59zTm15uRFHK84GUpsfqHsTZrUXroUHK9S61vydI89rvG+LsVSnmlpjjVYyjMBAAAAAAAAQANHyuW0EfOudC7HyQStrGPMu9K5DCcTlMhXa6zXnpmWVCa4xtb16pDPsLCchwKwlS+0ql+C/mY4X4qAQAAA
+  </data>
+ </layer>
+ <layer id="2" name="walls" width="86" height="48">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3XMU6CQRRGUekU3AMK+18cqD0vURIr8hdzqc5Nvm6q07zMYfeixR12v9PauDZxbeLaxLWJaxPXJq5NXJu4NnFt4trEtYlrE9cmrk1cm7g2cW3i2sS1iWsT1yauTVybuDZxbeLaxLWJaxPXJq5NXJu4NnFturuyXdvdk+vauDZxbeK6vcvsOvuafc9+Hrzlur3XMXqb7f/u/PsDM67bO47Rx+xzdpqduT49rk1cm/y3mv672trdACbs4Z2AQAAA
+  </data>
+ </layer>
+ <objectgroup id="3" name="objects">
+  <object id="1" name="Merlin" class="Player" x="400.751" y="118.197" width="34.2717" height="32.8074">
+   <properties>
+    <property name="Type" value="Player"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

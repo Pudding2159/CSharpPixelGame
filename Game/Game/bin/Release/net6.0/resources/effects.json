@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Damage-10",
+        "cost": 5
+    },
+    {
+        "name": "SpeedChange-20",
+        "cost": 10
+    }
+]
